@@ -1,13 +1,13 @@
 # Setup
-title:        Project or Site name
-tagline:      A responsive theme for your project on GitHub Pages
+title:        Empirical Security
+tagline:      Observations and experiences of an Information Security professional.
 baseurl:      ""
 paginate:     1
 
 # About/contact
 author:
-  name:       Author name
-  url:        http://yourhomepage.com 
+  name:       Empirical Security
+  url:        http://empiricalsecurity.github.io 
 
 # Gems
 gems:
