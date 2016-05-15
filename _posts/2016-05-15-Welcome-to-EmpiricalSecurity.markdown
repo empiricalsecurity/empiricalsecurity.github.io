@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Welcome to Empirical Security!"
 date:   2016-05-15 07:35:00
 categories: main
