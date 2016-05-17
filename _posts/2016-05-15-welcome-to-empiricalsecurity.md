@@ -4,10 +4,7 @@ title: Welcome to Empirical Security!
 description: "First post, the obligatory helloworld of blogging."
 modified: 2016-05-15
 tags: [post]
-image:
-  feature: abstract-10.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+
 ---
 
 Welcome to Empirical Security.  I am an information security professional who work the blue team for my company.  This is an extremely challenging position, but one that is interesting, fulfilling and affords me the benefit of always having more to learn.  I am also a family man and working in information security is how I support my family.  They are the center of my world and everything I do is with them in mind.
